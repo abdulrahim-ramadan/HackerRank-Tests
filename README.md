@@ -1,4 +1,4 @@
-# Python Certification Test Solutions
+### Python Certification Test Solutions
 
 Welcome to my repository showcasing solutions for the HackerRank Python certification test. These solutions demonstrate my proficiency in Python programming and problem-solving skills.
 
