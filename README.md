@@ -4,7 +4,6 @@ Welcome to my repository showcasing solutions for the HackerRank Python certific
 
 **Certification:** [HackerRank Certificate](https://www.hackerrank.com/certificates/857fc25f5ac2)
 
----
 
 ## Challenges
 
